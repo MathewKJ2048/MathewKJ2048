@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm doing my masters in computer science from the University of Waterloo, working on formal methods. I did my undergrad in IIT Tirupati, in computer science and engineering.
+
+Reach me at mathewkj2048@gmail.com
+
 <!--
 **MathewKJ2048/MathewKJ2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
