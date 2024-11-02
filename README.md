@@ -2,6 +2,23 @@
 
 I'm doing my masters in computer science from the University of Waterloo, working on formal methods. I did my undergrad in IIT Tirupati, in computer science and engineering.
 
+I have experience with the following languages and technologies:
+
+- Java
+- C++
+- python
+- Rust
+- typescript
+- TLA+
+- Alloy
+- flex/bison
+- RISC-V assembly
+- Svelte
+- wasm
+- SQL
+- express.js
+
+
 Reach me at mathewkj2048@gmail.com
 
 <!--
