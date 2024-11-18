@@ -4,22 +4,20 @@ I'm doing my masters in computer science from the University of Waterloo, workin
 
 I have experience with the following languages and technologies:
 
-- Java
-- C++
-- python
+- Java (gradle, swing)
+- Javascript (express.js, node.js, typescript, svelte.js, react.js, wasm, vite, react.js, three.js)
+- python (numpy, scikit-learn, matplotlib, selenium, pygame-ce)
+- C/C++
 - Rust
-- typescript
 - TLA+
 - Alloy
+- SQL
 - flex/bison
 - RISC-V assembly
-- Svelte
-- wasm
-- SQL
-- express.js
 
 
-Reach me at mathewkj2048@gmail.com
+
+- 📫 How to reach me: mathewkj2048@gmail.com
 
 <!--
 **MathewKJ2048/MathewKJ2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
