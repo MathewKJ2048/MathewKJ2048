@@ -14,6 +14,7 @@ I have experience with the following languages and technologies:
 - SQL
 - flex/bison
 - RISC-V assembly
+- Bash scripting
 
 
 
