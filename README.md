@@ -8,7 +8,7 @@ I have experience with the following languages and technologies:
 - Javascript (express.js, node.js, typescript, svelte.js, react.js, wasm, vite, react.js, three.js)
 - python (numpy, scikit-learn, matplotlib, selenium, pygame-ce)
 - C/C++
-- Rust
+- Dart (Flutter)
 - TLA+
 - Alloy
 - SQL
